@@ -56,9 +56,9 @@ You can view my [**Resume**](https://drive.google.com/file/d/1nnm4E2NN6bcsReuFSy
 ---
 
 ## 📄 **Certifications**
-- [ChatGPT AI Tools Workshop](https://example.com)  
-- [Short-Term Intern Certificate](https://example.com)
-- [Long-Term Intern Certificate](https://example.com)
+- [ChatGPT AI Tools Workshop](https://drive.google.com/file/d/1tTDezex0F5gpC3imUUC0Lf-rqNdtyyJf/view?usp=sharing)  
+- [Short-Term Intern Certificate](https://drive.google.com/file/d/1760CHT1C_iFrnnlZ0ZEOmAcPCr8XdQLr/view?usp=sharing)
+- [Long-Term Intern Certificate](https://drive.google.com/file/d/15UPgt0oFV-xzdTbE3M6eh9GlnQ6_BFUj/view?usp=sharing)
 
 ---
 
