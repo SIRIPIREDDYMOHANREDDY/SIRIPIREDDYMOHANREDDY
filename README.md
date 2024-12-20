@@ -5,7 +5,7 @@ Hello, I'm **Siripireddy Mohan Reddy**! I hold a Bachelor of Commerce in Compute
 
 My main goal is to develop reliable, efficient applications that deliver exceptional user experiences. I’m dedicated to continuous learning and staying up-to-date with the latest technologies. I’m eager to contribute to innovative projects and collaborate with like-minded professionals.
 
-You can view my [**Resume**](https://drive.google.com/file/d/1nnm4E2NN6bcsReuFSyDMp5YeF-URE4rS/view?usp=sharing) to learn more about my experiences or explore my projects and contributions on this GitHub profile. Feel free to connect with me!
+You can view my [**Resume**](https://drive.google.com/file/d/1j1NzupFAWg3UMwsyUdfLSV7wVQx3ki_q/view?usp=sharing) to learn more about my experiences or explore my projects and contributions on my GitHub profile. Feel free to connect with me!
 
 ---
 <section id="skills">
