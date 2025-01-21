@@ -66,7 +66,6 @@ You can view my [**Resume**](https://drive.google.com/file/d/1j1NzupFAWg3UMwsyUd
 
 - **Phone:** [+91 9392601087](tel:+919392601087)  
 - **Email 1:** [mohanreddy.sr4@gmail.com](mailto:mohanreddy.sr4@gmail.com)  
-- **Email 2:** [siribabu1087@gmail.com](mailto:siribabu1087@gmail.com)  
 - **LinkedIn:** [Mohan Reddy Siripireddy](https://www.linkedin.com/in/mohan-reddy-siripireddy-46526a325/)  
 - **GitHub:** [SIRIPIREDDYMOHANREDDY](https://github.com/SIRIPIREDDYMOHANREDDY)  
 - **LeetCode:** [u/CiMj2StSf9](https://leetcode.com/u/CiMj2StSf9/)  
